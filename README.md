@@ -1,6 +1,6 @@
-# Bifrost CLI Tool
+# Bifrost CLI
 
-Bifrost is a simple CLI tool for uploading files to cloud storage services. It provides a simple and easy-to-use interface for uploading files to cloud storage services, such as Amazon S3 and Google Cloud Storage.
+A simple CLI tool for [Bifrost](https://github.com/opensaucerer/bifrost/). Biforst is a package for uploading files to cloud storage services. It provides a simple and easy-to-use interface for uploading files to cloud storage services, such as Amazon S3 and Google Cloud Storage.
 
 ## Installation
 
