@@ -41,4 +41,4 @@ The following command options are available:
 If you want to contribute to Bifrost CLI, please submit a pull request on GitHub.
 
 ## License
-Bifrost is released under the MIT License. See LICENSE for details.
+Bifrost CLI is released under the MIT License. See LICENSE for details.
