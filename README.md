@@ -7,7 +7,7 @@ A simple CLI tool for [Bifrost](https://github.com/opensaucerer/bifrost/). Bifor
 To install Bifrost, run the following command:
 
 ```bash
-go get github.com/showbaba/bifrost-cli
+go install github.com/showbaba/bifrost-cli@latest
 ```
 
 ## Usage
