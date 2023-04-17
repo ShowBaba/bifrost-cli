@@ -43,7 +43,7 @@ If you don't want to install Bifrost CLI via Go, you can download the binary fil
 
 To use the binary file, follow these steps:
 
-1. Download the appropriate binary file for your operating system from the [releases page on GitHub](https://github.com/ShowBaba/bifrost-cli/tags).
+1. Download the appropriate binary file for your operating system from the [releases page on GitHub](https://github.com/ShowBaba/bifrost-cli/releases).
 
 2. Open a terminal or command prompt window.
 
